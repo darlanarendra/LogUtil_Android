@@ -5,8 +5,7 @@
     <application>
         <activity
             android:name="com.bluewhales.bayarea.MainActivity"
-            android:label="@string/title_activity_main"
-            android:theme="@style/Theme.LogUtil_Android.NoActionBar">
+            android:label="@string/title_activity_main">
 
         </activity>
     </application>
