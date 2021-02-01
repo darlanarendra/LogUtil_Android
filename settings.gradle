@@ -1,4 +1,1 @@
-include ':mylibrary'
-include ':logutil'
-include ':app'
-rootProject.name = "LogUtilExample"
+include ':library', ':example'
