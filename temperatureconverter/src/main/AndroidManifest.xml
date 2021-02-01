@@ -1,2 +1,12 @@
-<manifest package="com.converter.temperatureconverter"
-          xmlns:android="http://schemas.android.com/apk/res/android"/>
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.converter.temperatureconverter">
+
+    <application>
+        <activity
+            android:name="com.bluewhales.bayarea.MainActivity"
+            android:label="@string/title_activity_main"
+            android:theme="@style/Theme.LogUtil_Android.NoActionBar"></activity>
+    </application>
+
+</manifest>
